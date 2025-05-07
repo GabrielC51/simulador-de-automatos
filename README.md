@@ -5,12 +5,10 @@ Este repositório tem como objetivo guardar e expor alguns tipos de autômatos u
 ## Objetivo
 
 Meu objetivo com esse repositório é aplicar os conteúdos aprendidos na disciplina MATC94 - Linguagens Formais e Teoria da Computação, da UFBA e deixar disponível para aqueles que tiverem interesse em utilizar. Aceito também contribuições no código.
-Como está o desenvolvimento
 
 ## Como está o desenvolvimento
 
 Atualmente esta é a primeira versão, onde estou escrevendo os primeiros códigos em Python e criando apenas como forma de aplicar os conteúdos teóricos que aprendi recentemente. Em breve atualizarei esse documento com mais instruções sobre como utilizar o código.
-Agradecimentos:
 
 ## Agradecimentos
 

@@ -16,7 +16,6 @@ class estado:
 
 class AFD:
     def __init__(self, alfabeto):
-        print(__name__)
         self.estados = []
         self.alfabeto = alfabeto
         self.estado_inicial = None
