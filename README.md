@@ -1,6 +1,6 @@
 # SIMULADOR DE AUTOMATOS
 
-Este repositório tem como objetivo guardar e expor alguns tipos de autômatos usados como reconhecedores para diferentes tipos de linguagens formais. Todos os "simuladores" que estão aqui são códigos simples em versões diferentes (Java e Python) dos mesmos algoritmos para reconhecer cadeias de acordo com as instruções passadas.
+Este repositório tem como objetivo guardar e expor alguns tipos de autômatos usados como reconhecedores para diferentes tipos de linguagens formais. Esse simulador tem como objetivo reconhecer cadeias (strings) de uma linguagem formal qualquer requisitada.
 
 ## Objetivo
 
@@ -8,7 +8,7 @@ Meu objetivo com esse repositório é aplicar os conteúdos aprendidos na discip
 
 ## Como está o desenvolvimento
 
-Atualmente esta é a primeira versão, onde estou escrevendo os primeiros códigos em Python e criando apenas como forma de aplicar os conteúdos teóricos que aprendi recentemente. Em breve atualizarei esse documento com mais instruções sobre como utilizar o código.
+Infelizmente tive que parar o desenvolvimento desse projeto devido as outras atividades acadêmicas obrigatorias mais urgentes, porêm, pretendo continuar com o seu desenvolvimento em breve, irei revisar e refatorar o código para melhora-lo e acrescentar novos tipos de autômatos (autômatos não deterministicos, autômatos de pilha e máquinas de turing).
 
 ## Agradecimentos
 
